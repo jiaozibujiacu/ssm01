@@ -16,7 +16,7 @@ import com.xm.pojo.User;
 @RequestMapping(value = "/user")
 public class UserController {
 	
-	// ceshi
+	// ceshi1111111
 	@Resource
     private UserDao userDao;
 

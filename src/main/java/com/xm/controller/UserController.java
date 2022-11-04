@@ -16,7 +16,7 @@ import com.xm.pojo.User;
 @RequestMapping(value = "/user")
 public class UserController {
 	
-	
+	// ceshi
 	@Resource
     private UserDao userDao;
 
